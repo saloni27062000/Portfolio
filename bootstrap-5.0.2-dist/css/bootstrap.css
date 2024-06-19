@@ -4018,7 +4018,9 @@ textarea.form-control-lg {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
-
+  border: #000;
+  border-style: outset;
+  border-radius: 20%;
 
 }
 
